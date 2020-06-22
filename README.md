@@ -1,5 +1,7 @@
 # do-article-templates — DigitalOcean Community Article Templates
 
+[![donatepaypal](https://img.shields.io/badge/PAYPAL-DONATE-brightgreen?style=for-the-badge&logo=paypal)](https://paypal.me/rinoakbr)
+
 Please use these templates in addition to our style guide (do.co/style) to help you create articles for the DO community. 
 
 These are not substitutes for the [DO Style and Formatting Guide](http://do.co/style). If this is your first article, please read the Guides in their entirety before starting.
